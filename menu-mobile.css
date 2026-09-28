@@ -1,0 +1,1 @@
+@media(max-width:800px){.nav.is-open{display:flex;position:absolute;top:72px;left:0;right:0;padding:22px 8vw;background:var(--paper);border-bottom:1px solid var(--line);flex-direction:column;gap:18px;z-index:5}}
